@@ -1,0 +1,16 @@
+.contenedor {
+    margin-left: 1rem;
+    background-color: aquamarine;
+    padding-top: 2rem;
+}
+
+h5 {
+    font-size: 2rem;
+    color:rgb(29, 102, 37)
+
+}
+
+p {
+   font-size: 1rem; 
+}
+

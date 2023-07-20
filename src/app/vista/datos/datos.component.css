@@ -1,0 +1,11 @@
+.datos {
+    background-color: rgb(83, 82, 82);
+    color: white;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    
+}
+
+.col-sm-6-right {
+    text-align: right;
+}
